@@ -3,15 +3,18 @@
 }
 
 h1 {
-	color:black;
+	color:orange;
 	font-family: "Times New Roman", Times, serif;
 }
 h2 {
 	color:white;
 	font-family: "Times New Roman", Times, serif;
 }
+h3 {
+	color:white;
+	font-family: "Times New Roman", Times, serif;
+}
 body {
-	background-image: url("https://images.wallpaperscraft.com/image/spaghetti_dish_vegetables_leaves_white_background_78725_1366x768.jpg");
-	margin: 25px 50px 75px;
+	background-color: orange;
 }	
 

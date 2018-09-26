@@ -1,26 +1,29 @@
 * {
 	text-align: center;
 }
-
-h1 {
-	color:white;
-	font-family: "Times New Roman", Times, serif;
-	border-style: solid;
-	border: 200px 200px;
-	padding: 50px;
+body {
+background-color: black;
 }
-h2 {
-	color:white;
-	font-family: "Times New Roman", Times, serif;
-	border: ;
-	padding: 50px;
+h1 {
+	 color: black;
+ 	 font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+    background-color: orange;
+    padding: 30px;
 
+}
+
+h2 {
+	color:orange;
+	padding: 70px;
+	border-radius: 100px;
 }
 h3 {
-	color:white;
-	font-family: "Times New Roman", Times, serif;
-}
-body {
-	background-color: orange;
+	color: orange;
 }	
+
+
+
 
